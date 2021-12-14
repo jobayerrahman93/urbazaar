@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.search-area {
+  padding-top: 150px;
+}
+
+.banner-section {
+  background: url("https://chaldn.com/asset/Egg.Grocery.Fabric/Egg.Grocery.Web/1.5.0+DataCenter-Release-2611/Default/stores/chaldal/components/landingPage2/LandingPage/images/landingBannerTop.png");
+  height: 50vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}

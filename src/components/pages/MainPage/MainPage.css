@@ -1,0 +1,15 @@
+.sidenav {
+  height: 86vh;
+}
+.sidebar {
+  text-align: justify;
+  color: black;
+}
+.sidebar li {
+  list-style: none;
+}
+.sidebar a {
+  text-decoration: none;
+  color: black;
+  font-size: 17px;
+}
