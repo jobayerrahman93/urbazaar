@@ -1,0 +1,33 @@
+[
+  {
+    "id": "1",
+    "name": "Poushali Khejur Gur (Batali)",
+    "price": "150",
+    "weight": "500gm",
+    "image": "https://chaldn.com/_mpimage/poushali-khejur-gur-batali-500-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D87839&q=best&v=1&m=400&webp=1"
+  },
+  {
+    "id": "2",
+    "name": "Vaseline Lip Therapy Aloe Vera Balm Stick",
+    "price": "450",
+    "weight": "4.7gm",
+    "image": "https://chaldn.com/_mpimage/vaseline-lip-therapy-aloe-vera-balm-stick-48-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D88169&q=low&v=1&m=400&webp=1",
+    "description": ""
+  },
+  {
+    "id": "3",
+    "name": "Livingtex Comforter",
+    "price": "1240",
+    "weight": "each",
+    "image": "https://chaldn.com/_mpimage/vision-room-comforter-easy-heater-white-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D90922&q=best&v=1&m=400&webp=1",
+    "description": "Vitamin E – Helps to care for healthier lips Petroleum jelly – locks in moisture Aloe extracts – helps to soothe and hydrate dry lips CLINICALLY PROVEN: Vaseline lip balm has been clinically proven to relieve cracked, damaged and dry lips. Vaseline petroleum jelly, its main ingredient, has also been restoring scraped, burned and dry skin since 1870."
+  },
+  {
+    "id": "4",
+    "name": "Wish Alumtec-550 Racket (5 Colors)",
+    "price": "1240",
+    "weight": "each",
+    "image": "https://chaldn.com/_mpimage/wish-alumtec-550-badminton-racket-5-colors-1-pcs?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D88602&q=low&v=1&m=400&webp=1",
+    "description": "Colour may vary upon"
+  }
+]

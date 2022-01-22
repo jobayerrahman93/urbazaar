@@ -38,7 +38,7 @@ const UseFirebase = () => {
             // An error occurred
             // ...
           });
-        console.log(user);
+        // console.log(user);
 
 
         setUsers(newUser);
@@ -52,7 +52,7 @@ const UseFirebase = () => {
       });
   };
 
-  console.log(users);
+  // console.log(users);
 
   const loginUser = (email, password) => {
     signInWithEmailAndPassword(auth, email, password)

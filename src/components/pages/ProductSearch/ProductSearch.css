@@ -1,16 +1,21 @@
-* {
-  margin: 0;
-  padding: 0;
-}
-
-.search-area {
-  padding-top: 150px;
-}
-
-.banner-section {
+.banner-section-product {
   background: url("https://chaldn.com/asset/Egg.Grocery.Fabric/Egg.Grocery.Web/1.5.0+DataCenter-Release-2684/Default/stores/chaldal/components/landingPage2/LandingPage/images/landingBannerTop.png");
-  height: 50vh;
+  height: 30vh;
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
+}
+
+.search-area-product {
+  padding-top: 110px;
+}
+
+.modal-dialog {
+  width: 100% !important;
+}
+
+@media (min-width: 576px) {
+  .modal-dialog {
+    margin: 1.75rem auto;
+  }
 }

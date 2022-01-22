@@ -1,5 +1,6 @@
 .sidenav {
   height: 86vh;
+  z-index: 1000000;
 }
 .sidebar {
   text-align: justify;
