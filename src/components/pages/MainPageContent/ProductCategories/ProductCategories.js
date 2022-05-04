@@ -4,7 +4,7 @@ const ProductCategories = () => {
   return (
 <>
       <div className="my-5">
-        <h3 className="text-center mb-5">Our Product Categories</h3>
+        <h3 className="text-center  mb-5 ">Our Product Categories</h3>
 
       
   <div className="row g-2 mx-0 my-0 text-center">

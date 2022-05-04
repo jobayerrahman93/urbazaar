@@ -1,11 +1,11 @@
 import React from 'react';
 import MainPage from '../pages/MainPage/MainPage';
 
-const Home = () => {
+const Home = ({sidebarValue}) => {
     return (
         <>
 
-            <MainPage></MainPage>
+            <MainPage sidebarValue={sidebarValue}></MainPage>
         </>
     );
 };

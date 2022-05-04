@@ -23,13 +23,13 @@ const SearchBanner = () => {
         <div className="col-md-6 px-0">
           <img
             className="w-100"
-            src="https://chaldn.com/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D92628&q=low&v=1&m=588&webp=1"
+            src="https://i.ibb.co/bmk8S16/mpimage.webp"
           />
         </div>
         <div className="col-md-6 px-0">
           <img
             className="w-100"
-            src="https://chaldn.com/_mpimage?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D90998&q=low&v=1&m=588&webp=1"
+            src="https://i.ibb.co/DCg56Ls/mpimage-2.webp"
           />
         </div>
       </div>

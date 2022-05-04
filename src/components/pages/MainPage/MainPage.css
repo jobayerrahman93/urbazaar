@@ -24,3 +24,13 @@
   cursor: pointer;
   z-index: 1;
 }
+.bars-icon {
+  cursor: pointer;
+}
+
+/* navbar */
+
+.navbar .nav-link {
+  font-size: 18px;
+  color: #fff !important;
+}

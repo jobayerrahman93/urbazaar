@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import loginImage from '../../../images/login.png';
+import loginImage from '../../../images/login.jpg';
 import UseFirebase from '../../firebase/UseFirebase';
 
 const Login = () => {
