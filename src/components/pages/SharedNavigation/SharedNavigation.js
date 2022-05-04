@@ -50,7 +50,7 @@ const SharedNavigation = ({sidebarsValue,sidebarValue}) => {
               />
             </span>
 
-            <ul className="navbar-nav  mb-2 ms-5 mb-lg-0 fs-5">
+            <ul className="navbar-nav  mb-2 ms-2 mb-lg-0 fs-5">
               
                 <li className="nav-item">
                   <Link style={navStyle} to="/" className="nav-link  me-3" aria-current="page" href="#">

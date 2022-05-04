@@ -25,18 +25,18 @@ const MainPage = ({sidebarValue}) => {
           </a>
           <hr />
 
-          <div className="d-flex">
+          <div className="d-flex mb-1">
             <img
-              className="mx-3"
+              className="mx-3 "
               src="https://i.ibb.co/JxFS732/hygiene.png"
               height="20"
               width="20"
             ></img>
             <Link to="winter">
-              <p>Winter Collection</p>
+              <p className="mb-0">Winter Collection</p>
             </Link>
           </div>
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/0jHWBrp/stationery-office.png"
@@ -45,7 +45,7 @@ const MainPage = ({sidebarValue}) => {
             ></img>
             <a href="#">Popular</a>
           </div>
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/WkvgRpJ/flash-sales.png"
@@ -54,7 +54,7 @@ const MainPage = ({sidebarValue}) => {
             ></img>
             <a href="#">Flash Sales</a>
           </div>
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/LCWcf4S/baby-care.png"
@@ -97,7 +97,7 @@ const MainPage = ({sidebarValue}) => {
             </li>
           </div>
 
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/CwhKSSm/pet-care.png"
@@ -107,7 +107,7 @@ const MainPage = ({sidebarValue}) => {
             <a href="#">Pet Care</a>
           </div>
 
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/ZJ2ptWv/vehicle-essentials.png"
@@ -116,7 +116,7 @@ const MainPage = ({sidebarValue}) => {
             ></img>
             <a href="#">Toys and Games</a>
           </div>
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/LpDqNhH/beauty-health.png"
@@ -125,7 +125,7 @@ const MainPage = ({sidebarValue}) => {
             ></img>
             <a href="#">Sports and fitness</a>
           </div>
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/qrrqRD6/food.png"
@@ -134,7 +134,7 @@ const MainPage = ({sidebarValue}) => {
             ></img>
             <a href="#">Food</a>
           </div>
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/KDFzpch/cleaning-supplies.png"
@@ -143,7 +143,7 @@ const MainPage = ({sidebarValue}) => {
             ></img>
             <a href="#">Home and cleaning</a>
           </div>
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/0jHWBrp/stationery-office.png"
@@ -152,7 +152,7 @@ const MainPage = ({sidebarValue}) => {
             ></img>
             <a href="#">Office Products</a>
           </div>
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/LpDqNhH/beauty-health.png"
@@ -161,7 +161,7 @@ const MainPage = ({sidebarValue}) => {
             ></img>
             <a href="#">Beauty health</a>
           </div>
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/YhQNX9Y/home-kitchen.png"
@@ -170,7 +170,7 @@ const MainPage = ({sidebarValue}) => {
             ></img>
             <a href="#">Home Appliances</a>
           </div>
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/JxFS732/hygiene.png"
@@ -179,7 +179,7 @@ const MainPage = ({sidebarValue}) => {
             ></img>
             <a href="#">Hygine</a>
           </div>
-          <div className="d-flex mb-2">
+          <div className="d-flex mb-1">
             <img
               className="mx-3"
               src="https://i.ibb.co/ZJ2ptWv/vehicle-essentials.png"
